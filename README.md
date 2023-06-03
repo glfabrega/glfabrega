@@ -1,7 +1,7 @@
 ### Olá! Bem-vindo(a) ao meu GitHub 👋
 
-Meu nome é Gabriel Fabrega, sou formado em Gestão da Tecnologia da Informação pela FATEC de Bragança Paulista.
-Desenvolvedor Delphi desde 2013 e apaixonado pela parte técnica do desenvolvimento, hoje desenvolvo nas seguintes tecnologias
+## Meu nome é Gabriel Fabrega, sou formado em Gestão da Tecnologia da Informação pela FATEC de Bragança Paulista.
+## Desenvolvedor Delphi desde 2013 e apaixonado pela parte técnica do desenvolvimento, hoje desenvolvo nas seguintes tecnologias
 
 
 
