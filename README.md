@@ -27,9 +27,15 @@ Desenvolvedor Delphi desde 2013 e apaixonado por arquitetura de software e Hard 
   </a>
 </p>
 
+### Ferramentas
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,git&theme=light" />
+  </a>
+</p>
 
-
+Aqui compartilho um pouco da minha expertise, como projetos realizados para estudos, treinamentos e futuramente componentes de desenvolvimento próprio
 
 <!--
 **glfabrega/glfabrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
