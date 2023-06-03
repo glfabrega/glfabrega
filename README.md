@@ -7,10 +7,10 @@ Desenvolvedor Delphi desde 2013 e apaixonado por arquitetura de software e Hard 
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://github.com/glfabrega/glfabrega/blob/main/delphi(1).png" />
-    <img src="https://github.com/glfabrega/glfabrega/blob/main/unigui.png" />
+    <img src="https://github.com/glfabrega/glfabrega/blob/main/delphi(1).png" height="32" witdh="32" />
+    <img src="https://github.com/glfabrega/glfabrega/blob/main/unigui.png" height="32" />
     <img src="https://github.com/glfabrega/glfabrega/blob/main/horse.png" height="32" witdh="32" />
-    <img src="https://github.com/glfabrega/glfabrega/blob/main/Boss Logo - 128px.png" />
+    <img src="https://github.com/glfabrega/glfabrega/blob/main/Boss Logo - 128px.png" height="32" />
     
     
   </a>
