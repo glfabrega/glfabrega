@@ -1,7 +1,13 @@
 ## Olá! Bem-vindo(a) ao meu GitHub 👋
 
-### Meu nome é Gabriel Fabrega, sou formado em Gestão da Tecnologia da Informação pela FATEC de Bragança Paulista.
-### Desenvolvedor Delphi desde 2013 e apaixonado pela parte técnica do desenvolvimento, hoje desenvolvo nas seguintes tecnologias
+Meu nome é Gabriel Fabrega, sou formado em Gestão da Tecnologia da Informação pela FATEC de Bragança Paulista.
+Desenvolvedor Delphi desde 2013 e apaixonado por arquitetura de software e Hard Skils, hoje desenvolvo utilizando as seguintes tecnologias e ferramentas:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
