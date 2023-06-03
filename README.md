@@ -5,7 +5,7 @@ Desenvolvedor Delphi desde 2013 e apaixonado por arquitetura de software e Hard 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,reactnative,java,spring-boot" />
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring" />
   </a>
 </p>
 
