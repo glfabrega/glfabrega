@@ -3,10 +3,19 @@
 Meu nome é Gabriel Fabrega, sou formado em Gestão da Tecnologia da Informação pela FATEC de Bragança Paulista.
 Desenvolvedor Delphi desde 2013 e apaixonado por arquitetura de software e Hard Skils, hoje desenvolvo utilizando as seguintes tecnologias e ferramentas:
 
+# Backend
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,hibernate,spring&theme=light" />
+  </a>
+</p>
+
+# Web & Mobile
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript, react&theme=light" />
   </a>
 </p>
 
