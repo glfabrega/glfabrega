@@ -10,9 +10,6 @@ Desenvolvedor Delphi desde 2013 e apaixonado por arquitetura de software e Hard 
     <img src="https://github.com/glfabrega/glfabrega/blob/main/delphi(1).png" height="32" witdh="32" />
     <img src="https://github.com/glfabrega/glfabrega/blob/main/unigui.png" height="32" />
     <img src="https://github.com/glfabrega/glfabrega/blob/main/horse.png" height="32" witdh="32" />
-    <img src="https://github.com/glfabrega/glfabrega/blob/main/Boss Logo - 128px.png" height="32" />
-    
-    
   </a>
 </p>
 <img src="https://skillicons.dev/icons?i=java,hibernate,spring&theme=light" />
